@@ -17,7 +17,7 @@ configMapGenerator:
 images:
 - name: catalog-service
   newName: ghcr.io/haihuynh2002/catalog-service
-  newTag: 801c1966eeea347f4f9f572534b58b6f95eca418
+  newTag: dc70b46c5f791ee172cd45acf8614ef23f45eb06
 
 replicas:
 - count: 2
